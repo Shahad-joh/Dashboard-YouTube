@@ -1,4 +1,4 @@
-# Dashboard-YouTube
+# Dashboard for YouTube data
 
 A dashboard for YouTube data to view the highest views on YouTube is designed in a way that presents the data in a clear and concise manner. The dashboard would be designed to display key performance indicators (KPIs) related to the highest views, such as the top videos by views or the top channels by views.
 
